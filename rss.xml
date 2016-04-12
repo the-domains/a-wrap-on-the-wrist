@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Wrap On The Wrist]]></title>
+        <description><![CDATA[A Wrap On The Wrist]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 18:39:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A Wrap On The Wrist  bracelets are colorful, one of a kind accessories, combining the finest hand dyed silk ribbons with a combination of enameling, painting, embossing, etching, altering and layering metals including copper, brass and silver of many shapes and sizes.
+All of the pieces complement and contrast beautifully with the silk ribbons.
+
+Designed with the environment in mind, they help create an earthy, eco- friendly look!
+
+Lovingly Hand  Made in the USA!</p>]]></description>
+            <link>undefineddb479d8d-6155-4912-aa65-51a864e79089/index.html</link>
+            <guid isPermaLink="false">db479d8d-6155-4912-aa65-51a864e79089</guid>
+            <pubDate>Tue, 12 Apr 2016 18:39:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
